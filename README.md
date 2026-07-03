@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">✨I'm studying Computer Engineering and I'm in my last semester.✨ <br>💻 I am developing iOS apps with Swift.<br>💻 Intrested in fullstack development.</h5>
+<h5 align="left">✨I'm a Computer Engineer✨ <br>💻I develop ERP systems and web applications in Go.br>💻 Intrested in fullstack development.</h5>
 
 ###
 
